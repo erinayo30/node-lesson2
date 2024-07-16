@@ -1,0 +1,2 @@
+Reading data from input.txt: A new file for reading input. 
+ Date created Sat Jul 13 2024 17:19:51 GMT+0100 (West Africa Standard Time)
